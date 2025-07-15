@@ -12,3 +12,4 @@ Inventory,StockLevel,Stock Level,Integer,Number of items currently in stock
 Customers,CustomerID,Customer ID,Integer,Unique identifier for each customer
 Customers,CustomerName,Customer Name,Text,Full name of the customer
 Orders,OrderDate,Order Date,Date,Date when the order was placed
+Inventory,ManagerName,Manager Name,Text,Name of the Manager in Charge
