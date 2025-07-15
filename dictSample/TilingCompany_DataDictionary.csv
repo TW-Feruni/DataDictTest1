@@ -11,3 +11,4 @@ Sales,TotalAmount,Total Sale Amount,Decimal,Total value of the sale in currency
 Inventory,StockLevel,Stock Level,Integer,Number of items currently in stock
 Customers,CustomerID,Customer ID,Integer,Unique identifier for each customer
 Customers,CustomerName,Customer Name,Text,Full name of the customer
+Orders,OrderDate,Order Date,Date,Date when the order was placed
