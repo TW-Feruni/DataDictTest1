@@ -1,0 +1,11 @@
+Table Name,Column Name,Display Name,Data Type,Description
+Projects,ProjectID,Project ID,Integer,Unique identifier for each project
+Projects,ClientName,Client Name,Text,Name of the client for the project
+Projects,TileType,Type of Tile,Text,Type of tile used in the project
+Materials,MaterialID,Material ID,Integer,Unique ID for each material
+Materials,Supplier,Supplier Name,Text,Name of the supplier providing materials
+Employees,EmployeeID,Employee ID,Integer,Unique identifier for each employee
+Employees,Role,Job Role,Text,Job title or function within company
+Sales,SaleDate,Date of Sale,Date,Date when the sale occurred
+Sales,TotalAmount,Total Sale Amount,Decimal,Total value of the sale in currency
+Inventory,StockLevel,Stock Level,Integer,Number of items currently in stock
